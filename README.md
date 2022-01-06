@@ -1,7 +1,7 @@
-# Work-manager
-The work manager app will never let you miss your deadlines!
-The system is made made in order to make sure you can keep a check of your pending and completed tasks so you never miss any deadlines again.
-It is implemented in Node.js & Express.js and uses Ejs templating as well!.
+# Work-manager 📝
+<li>The work manager app will never let you miss your deadlines!</li>
+<li>The system is made made in order to make sure you can keep a check of your pending and completed tasks so you never miss any deadlines again.</li>
+<li>It is implemented in Node.js & Express.js and uses Ejs templating as well!.</li>
 
 ## How to run this?
 
